@@ -1,5 +1,5 @@
 /* -------------------------------------------------------------
- * Premium JavaScript Functions for HTH & SilkLink Cooperation Website
+ * Premium JavaScript Functions for Hi-Tech House & SilkLink Cooperation Website
  * ------------------------------------------------------------- */
 
 document.addEventListener('DOMContentLoaded', () => {
